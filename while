@@ -1,0 +1,10 @@
+#eduardomc01
+
+print('Bucle while python')
+
+num = int(input('number for while: '))
+
+
+while (num <= 5): 
+    print('number: ', num) 
+    num += 1
